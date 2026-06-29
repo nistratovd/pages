@@ -1,6 +1,6 @@
 # Обо мне
 
-![](img/foto.png)
+![](https://nistratovd.github.io/pages/img/foto.jpg)
 
 ## Имя
 
